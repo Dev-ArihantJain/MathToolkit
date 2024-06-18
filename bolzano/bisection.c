@@ -1,7 +1,8 @@
 #include <stdio.h>
-#include <conio.h>
+// #include <conio.h>
 #include <math.h>
-#define f(x) pow(x, 2) - 4
+#define f(x) (x*x) - 4
+// #define f(x) pow(x, 2) - 4
 
 void main()
 {

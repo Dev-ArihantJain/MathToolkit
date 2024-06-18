@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <conio.h>
+// #include <conio.h>
 #include <math.h>
 
 float power(float x, int y)
@@ -91,5 +91,6 @@ int main()
         a = xnew;
     }
 
-    getch();
+    // getch();
+    getchar();
 }

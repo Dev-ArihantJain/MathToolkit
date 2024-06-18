@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <conio.h>
+// #include <conio.h>
 #include <stdlib.h>
 #include <math.h>
 
@@ -133,7 +133,8 @@ result= (h)*(((fx[0]+fx[6])/2)+fx[1]+fx[3]+fx[5]+fx[2]+fx[4]);
 
 printf("\n******    The Final Result Is = %f    ******\n",result);
 
-getch();
+// getch();
+getchar();
 
 }
 
